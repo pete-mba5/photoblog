@@ -19,4 +19,5 @@ Last updated: {{repo.updated_at | date_to_string}}
 
 {% endif %}
 
+#review this webpage: https://henriwoodcock.medium.com/how-to-create-a-projects-page-on-jekyll-3bcf129f3efd
 {% endfor %}
