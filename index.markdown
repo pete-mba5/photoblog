@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: Read Our Latest Posts
+list_title: 365x365
 title: ''
 ---
 
